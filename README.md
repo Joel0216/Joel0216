@@ -65,9 +65,9 @@ Desarrollador de software apasionado por la eficiencia y la arquitectura escalab
 ---
 
 ##  Medios de Contacto
-* ** Correo Electrónico:** [joelantoniopool@gmail.com](mailto:joelantoniopool@gmail.com)
-* ** WhatsApp / Teléfono:** [+52 9991579811](https://wa.me/529991579811)
-* ** Ubicación:** Mérida, Yucatán, México
+* **Correo Electrónico:** [joelantoniopool@gmail.com](mailto:joelantoniopool@gmail.com)
+* **WhatsApp / Teléfono:** [+52 9991579811](https://wa.me/529991579811)
+* **Ubicación:** Mérida, Yucatán, México
 
 </details>
 
@@ -127,8 +127,8 @@ I am available to turn your ideas into real software! If you need a mobile app b
 ---
 
 ##  Contact Information
-* ** Email:** [joelantoniopool@gmail.com](mailto:joelantoniopool@gmail.com)
-* ** WhatsApp / Phone:** [+52 9991579811](https://wa.me/529991579811)
-* ** Location:** Mérida, Yucatán, México
+* **Email:** [joelantoniopool@gmail.com](mailto:joelantoniopool@gmail.com)
+* **WhatsApp / Phone:** [+52 9991579811](https://wa.me/529991579811)
+* **Location:** Mérida, Yucatán, México
 
 </details>
